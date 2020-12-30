@@ -1,1 +1,2 @@
-# shell-play-ground
+# OSやShellについての学習
+学習したことをまとめました。
